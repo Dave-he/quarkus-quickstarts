@@ -39,3 +39,6 @@ lsp/
 *.swo
 
 .quarkus
+.fastRequest
+.mvn
+.github
